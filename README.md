@@ -1,1 +1,1 @@
-# Land-LULC-Level-1-Classification-using-ML
+# LULC-Level-1-Classification-using-ML
